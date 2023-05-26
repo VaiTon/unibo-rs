@@ -3,6 +3,7 @@ name = "unibo"
 version = "0.1.0"
 description = "A CLI tool and library for interacting with the Unibo API"
 edition = "2021"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
