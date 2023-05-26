@@ -1,9 +1,11 @@
 # UniBO Rust API
 
+- [crates.io](https://crates.io/crates/unibo)
+
 ## Install
 
 ```shell
-cargo install --git https://github.com/VaiTon/unibo-rs
+cargo install unibo
 ```
 
 ## Usage
